@@ -1,0 +1,649 @@
+The optimal solution objective is -1.299217e+02.
+Name = Bounded_Poisson_Control & PMM iters = 14  & SSN iters = 29 & Krylov iters = 212  & Time = 1.30e+00 & opt = true  
+The optimal solution objective is -5.139817e+02.
+Name = Bounded_Poisson_Control & PMM iters = 24  & SSN iters = 86 & Krylov iters = 687  & Time = 8.65e+01 & opt = true  
+The optimal solution objective is -1.025988e+03.
+Name = Bounded_Poisson_Control & PMM iters = 30  & SSN iters = 124 & Krylov iters = 1074  & Time = 6.55e+02 & opt = true  
+The optimal solution objective is -6.422877e+00.
+Name = Bounded_Convection_Diffusion & PMM iters = 23  & SSN iters = 82 & Krylov iters = 5204  & Time = 1.43e+01 & opt = true  
+The optimal solution objective is -1.281935e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 30  & SSN iters = 145 & Krylov iters = 9985  & Time = 9.35e+01 & opt = true  
+The optimal solution objective is -2.561721e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 38  & SSN iters = 318 & Krylov iters = 22292  & Time = 1.01e+03 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 299  & Time = 8.04e+00 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 299  & Time = 7.39e+00 & opt = true  
+The optimal solution objective is -5.139817e+02.
+Name = Bounded_Poisson_Control & PMM iters = 24  & SSN iters = 86 & Krylov iters = 687  & Time = 7.96e+01 & opt = true  
+The optimal solution objective is -5.139817e+02.
+Name = Bounded_Poisson_Control & PMM iters = 24  & SSN iters = 86 & Krylov iters = 687  & Time = 9.42e+01 & opt = true  
+The optimal solution objective is -5.139817e+02.
+Name = Bounded_Poisson_Control & PMM iters = 24  & SSN iters = 86 & Krylov iters = 687  & Time = 7.90e+01 & opt = true  
+The optimal solution objective is -1.281935e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 30  & SSN iters = 146 & Krylov iters = 11375  & Time = 1.02e+02 & opt = true  
+The optimal solution objective is -1.281935e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 30  & SSN iters = 145 & Krylov iters = 9985  & Time = 1.01e+02 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 299  & Time = 9.08e+00 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 299  & Time = 6.68e+00 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 299  & Time = 6.80e+00 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 301  & Time = 6.20e+00 & opt = true  
+The optimal solution objective is -1.281935e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 30  & SSN iters = 145 & Krylov iters = 9966  & Time = 9.01e+01 & opt = true  
+The optimal solution objective is -1.281935e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 30  & SSN iters = 145 & Krylov iters = 10904  & Time = 1.08e+02 & opt = true  
+The optimal solution objective is -1.281935e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 30  & SSN iters = 145 & Krylov iters = 10131  & Time = 9.59e+01 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 299  & Time = 6.28e+00 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 299  & Time = 6.80e+00 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 299  & Time = 6.90e+00 & opt = true  
+The optimal solution objective is -1.281935e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 30  & SSN iters = 145 & Krylov iters = 9990  & Time = 9.20e+01 & opt = true  
+The optimal solution objective is -2.579576e+02.
+Name = Bounded_Poisson_Control & PMM iters = 18  & SSN iters = 59 & Krylov iters = 361  & Time = 1.23e+01 & opt = true  
+The optimal solution objective is -2.579616e+02.
+Name = Bounded_Poisson_Control & PMM iters = 20  & SSN iters = 59 & Krylov iters = 365  & Time = 5.63e+01 & opt = true  
+The optimal solution objective is -2.579605e+02.
+Name = Bounded_Poisson_Control & PMM iters = 16  & SSN iters = 38 & Krylov iters = 293  & Time = 1.22e+01 & opt = true  
+The optimal solution objective is -2.579555e+02.
+Name = Bounded_Poisson_Control & PMM iters = 17  & SSN iters = 45 & Krylov iters = 299  & Time = 7.05e+00 & opt = true  
+The optimal solution objective is -1.281972e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 17  & SSN iters = 33 & Krylov iters = 2123  & Time = 2.46e+01 & opt = true  
+The optimal solution objective is -2.579605e+02.
+Name = Bounded_Poisson_Control & PMM iters = 16  & SSN iters = 38 & Krylov iters = 293  & Time = 1.19e+01 & opt = true  
+The optimal solution objective is -2.579614e+02.
+Name = Bounded_Poisson_Control & PMM iters = 16  & SSN iters = 17 & Krylov iters = 170  & Time = 4.53e+00 & opt = true  
+The optimal solution objective is -1.281972e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 17  & SSN iters = 32 & Krylov iters = 2079  & Time = 1.99e+01 & opt = true  
+The optimal solution objective is -5.139833e+02.
+Name = Bounded_Poisson_Control & PMM iters = 21  & SSN iters = 100 & Krylov iters = 699  & Time = 1.26e+02 & opt = true  
+The optimal solution objective is -2.579631e+02.
+Name = Bounded_Poisson_Control & PMM iters = 12  & SSN iters = 12 & Krylov iters = 123  & Time = 1.22e+01 & opt = true  
+The optimal solution objective is -2.579632e+02.
+Name = Bounded_Poisson_Control & PMM iters = 12  & SSN iters = 12 & Krylov iters = 124  & Time = 7.67e+00 & opt = true  
+The optimal solution objective is -1.281761e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 3  & SSN iters = 5 & Krylov iters = 241  & Time = 7.78e+00 & opt = true  
+The optimal solution objective is -5.139675e+02.
+Name = Bounded_Poisson_Control & PMM iters = 11  & SSN iters = 11 & Krylov iters = 136  & Time = 5.51e+01 & opt = true  
+The optimal solution objective is -2.561542e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 5  & SSN iters = 16 & Krylov iters = 718  & Time = 7.66e+01 & opt = true  
+The optimal solution objective is -1.274743e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 1.48e+00 & opt = true  
+The optimal solution objective is -1.267323e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 3.45e+00 & opt = true  
+The optimal solution objective is -1.259213e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 1.73e+01 & opt = true  
+The optimal solution objective is -6.422531e+00.
+Name = Bounded_Convection_Diffusion & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 1.54e+01 & opt = true  
+The optimal solution objective is -1.274743e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 1.46e+00 & opt = true  
+The optimal solution objective is -1.260417e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 6  & SSN iters = 6 & Krylov iters = 46  & Time = 1.84e+00 & opt = true  
+The optimal solution objective is -6.422503e+00.
+Name = Bounded_Convection_Diffusion & PMM iters = 4  & SSN iters = 4 & Krylov iters = 300  & Time = 2.42e+00 & opt = true  
+The optimal solution objective is -1.260417e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 6  & SSN iters = 6 & Krylov iters = 46  & Time = 1.65e+00 & opt = true  
+The optimal solution objective is -1.281761e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 3  & SSN iters = 5 & Krylov iters = 244  & Time = 9.16e+00 & opt = true  
+The optimal solution objective is -2.541351e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 11 & Krylov iters = 101  & Time = 7.53e+00 & opt = true  
+The optimal solution objective is -6.413592e-05.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 11 & Krylov iters = 96  & Time = 7.64e+00 & opt = true  
+The optimal solution objective is -2.579632e+02.
+Name = Bounded_Poisson_Control & PMM iters = 12  & SSN iters = 12 & Krylov iters = 124  & Time = 8.41e+00 & opt = true  
+The optimal solution objective is -6.413592e-05.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 11 & Krylov iters = 96  & Time = 7.62e+00 & opt = true  
+The optimal solution objective is -1.212634e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 16 & Krylov iters = 169  & Time = 6.10e+01 & opt = true  
+The optimal solution objective is -7.530572e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 15  & SSN iters = 86 & Krylov iters = 1771  & Time = 6.18e+01 & opt = true  
+Maximum number of iterations reached.
+Returning the last iterate.
+Name = Conv_Diff_L1_Control & PMM iters = 200  & SSN iters = 7 & Krylov iters = 91  & Time = 8.74e+00 & opt = false  
+Maximum number of iterations reached.
+Returning the last iterate.
+Name = Conv_Diff_L1_Control & PMM iters = 200  & SSN iters = 1 & Krylov iters = 9  & Time = 7.06e+00 & opt = false  
+Maximum number of iterations reached.
+Returning the last iterate.
+Name = Conv_Diff_L1_Control & PMM iters = 200  & SSN iters = 1 & Krylov iters = 9  & Time = 7.09e+00 & opt = false  
+The optimal solution objective is -1.281761e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 3  & SSN iters = 5 & Krylov iters = 244  & Time = 8.91e+00 & opt = true  
+The optimal solution objective is -2.579632e+02.
+Name = Bounded_Poisson_Control & PMM iters = 12  & SSN iters = 12 & Krylov iters = 124  & Time = 8.08e+00 & opt = true  
+Maximum number of iterations reached.
+Returning the last iterate.
+Name = Bounded_Poisson_L1_Control & PMM iters = 200  & SSN iters = 0 & Krylov iters = 0  & Time = 1.91e+00 & opt = false  
+Maximum number of iterations reached.
+Returning the last iterate.
+Name = Bounded_Poisson_L1_Control & PMM iters = 200  & SSN iters = 0 & Krylov iters = 0  & Time = 1.84e+00 & opt = false  
+The optimal solution objective is -1.268380e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 10  & SSN iters = 26 & Krylov iters = 238  & Time = 2.67e+00 & opt = true  
+The optimal solution objective is -6.422503e+00.
+Name = Bounded_Convection_Diffusion & PMM iters = 4  & SSN iters = 4 & Krylov iters = 300  & Time = 2.47e+00 & opt = true  
+The optimal solution objective is -1.281761e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 3  & SSN iters = 6 & Krylov iters = 280  & Time = 1.00e+01 & opt = true  
+The optimal solution objective is -2.579632e+02.
+Name = Bounded_Poisson_Control & PMM iters = 12  & SSN iters = 12 & Krylov iters = 124  & Time = 8.46e+00 & opt = true  
+The optimal solution objective is -2.579632e+02.
+Name = Bounded_Poisson_Control & PMM iters = 12  & SSN iters = 12 & Krylov iters = 124  & Time = 8.46e+00 & opt = true  
+The optimal solution objective is -1.281761e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 3  & SSN iters = 5 & Krylov iters = 244  & Time = 9.08e+00 & opt = true  
+The optimal solution objective is -1.281761e+01.
+Name = Bounded_Convection_Diffusion & PMM iters = 3  & SSN iters = 5 & Krylov iters = 244  & Time = 9.14e+00 & opt = true  
+The optimal solution objective is -6.290521e+01.
+Name = Bounded_Poisson_L1_Control & PMM iters = 8  & SSN iters = 432 & Krylov iters = 9298  & Time = 1.72e+01 & opt = true  
+The optimal solution objective is -3.230206e+00.
+Name = Bounded_Convection_Diffusion & PMM iters = 3  & SSN iters = 3 & Krylov iters = 240  & Time = 3.02e-01 & opt = true  
+The optimal solution objective is -6.290617e+01.
+Name = Bounded_Poisson_L1_Control & PMM iters = 8  & SSN iters = 342 & Krylov iters = 6724  & Time = 1.15e+01 & opt = true  
+The optimal solution objective is -6.290625e+01.
+Name = Bounded_Poisson_L1_Control & PMM iters = 8  & SSN iters = 252 & Krylov iters = 4530  & Time = 7.68e+00 & opt = true  
+The optimal solution objective is -6.290625e+01.
+Name = Bounded_Poisson_L1_Control & PMM iters = 8  & SSN iters = 174 & Krylov iters = 2736  & Time = 4.65e+00 & opt = true  
+The optimal solution objective is -6.290625e+01.
+Name = Bounded_Poisson_L1_Control & PMM iters = 8  & SSN iters = 89 & Krylov iters = 1182  & Time = 2.11e+00 & opt = true  
+The optimal solution objective is -6.290620e+01.
+Name = Bounded_Poisson_L1_Control & PMM iters = 8  & SSN iters = 42 & Krylov iters = 365  & Time = 6.53e-01 & opt = true  
+The optimal solution objective is -2.547824e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 52 & Krylov iters = 447  & Time = 1.71e+01 & opt = true  
+The optimal solution objective is -7.301709e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 15  & SSN iters = 21 & Krylov iters = 392  & Time = 1.23e+01 & opt = true  
+The optimal solution objective is -2.547824e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 52 & Krylov iters = 447  & Time = 1.71e+01 & opt = true  
+The optimal solution objective is -2.547825e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 43 & Krylov iters = 394  & Time = 1.37e+01 & opt = true  
+The optimal solution objective is -2.547825e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 46 & Krylov iters = 413  & Time = 1.46e+01 & opt = true  
+The optimal solution objective is -2.547825e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 33 & Krylov iters = 293  & Time = 1.20e+01 & opt = true  
+The optimal solution objective is -2.547825e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 33 & Krylov iters = 293  & Time = 1.19e+01 & opt = true  
+The optimal solution objective is -2.547823e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 33 & Krylov iters = 287  & Time = 1.20e+01 & opt = true  
+The optimal solution objective is -7.625691e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 15  & SSN iters = 27 & Krylov iters = 472  & Time = 1.39e+01 & opt = true  
+The optimal solution objective is -5.107150e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 15 & Krylov iters = 180  & Time = 6.46e+01 & opt = true  
+The optimal solution objective is -6.300917e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 16 & Krylov iters = 301  & Time = 7.11e+01 & opt = true  
+The optimal solution objective is -1.901069e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 9  & SSN iters = 10 & Krylov iters = 800  & Time = 1.70e+01 & opt = true  
+The optimal solution objective is -1.736190e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 14 & Krylov iters = 1241  & Time = 1.20e+02 & opt = true  
+The optimal solution objective is -2.547823e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 33 & Krylov iters = 287  & Time = 1.29e+01 & opt = true  
+The optimal solution objective is -2.548506e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 20  & SSN iters = 71 & Krylov iters = 828  & Time = 2.14e+01 & opt = true  
+The optimal solution objective is -5.108397e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 25  & SSN iters = 94 & Krylov iters = 1176  & Time = 1.49e+02 & opt = true  
+The optimal solution objective is -1.933889e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 14  & SSN iters = 15 & Krylov iters = 2225  & Time = 3.42e+01 & opt = true  
+The optimal solution objective is -2.548506e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 20  & SSN iters = 71 & Krylov iters = 828  & Time = 2.16e+01 & opt = true  
+The optimal solution objective is -7.934035e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 19  & SSN iters = 91 & Krylov iters = 3616  & Time = 5.78e+01 & opt = true  
+The optimal solution objective is -7.933983e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 19  & SSN iters = 77 & Krylov iters = 2889  & Time = 4.70e+01 & opt = true  
+The optimal solution objective is -7.798182e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 20  & SSN iters = 44 & Krylov iters = 1458  & Time = 1.40e+02 & opt = true  
+The optimal solution objective is -5.108242e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 21  & SSN iters = 63 & Krylov iters = 631  & Time = 1.11e+02 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.56e+00 & opt = true  
+The optimal solution objective is -6.422925e+00.
+Name = Bounded_Convection_Diffusion & PMM iters = 9  & SSN iters = 9 & Krylov iters = 1342  & Time = 5.39e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.01e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.31e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.05e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.03e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.13e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.13e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.10e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.05e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.20e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.05e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 4.93e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.08e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 4.97e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 63 & Krylov iters = 846  & Time = 5.11e+00 & opt = true  
+The optimal solution objective is -1.268716e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 64 & Krylov iters = 856  & Time = 5.30e+00 & opt = true  
+The optimal solution objective is -1.268715e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 64 & Krylov iters = 823  & Time = 5.09e+00 & opt = true  
+The optimal solution objective is -1.268685e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 196 & Krylov iters = 6685  & Time = 3.68e+01 & opt = true  
+The optimal solution objective is -7.865126e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 17  & SSN iters = 120 & Krylov iters = 5031  & Time = 1.97e+01 & opt = true  
+The optimal solution objective is -7.864999e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 17  & SSN iters = 99 & Krylov iters = 3972  & Time = 1.67e+01 & opt = true  
+The optimal solution objective is -1.134950e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 1  & SSN iters = 10 & Krylov iters = 144  & Time = 2.66e+00 & opt = true  
+The optimal solution objective is -4.633344e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 12 & Krylov iters = 207  & Time = 2.03e+00 & opt = true  
+The optimal solution objective is -8.989509e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 26  & SSN iters = 162 & Krylov iters = 6460  & Time = 2.80e+01 & opt = true  
+The optimal solution objective is -7.810212e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 20  & SSN iters = 32 & Krylov iters = 794  & Time = 4.89e+00 & opt = true  
+The optimal solution objective is -7.811485e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 20  & SSN iters = 32 & Krylov iters = 745  & Time = 4.61e+00 & opt = true  
+The optimal solution objective is -7.811601e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 20  & SSN iters = 32 & Krylov iters = 683  & Time = 4.57e+00 & opt = true  
+The optimal solution objective is -7.642389e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 2  & SSN iters = 14 & Krylov iters = 224  & Time = 2.77e+00 & opt = true  
+The optimal solution objective is -7.733516e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 19  & SSN iters = 28 & Krylov iters = 606  & Time = 3.88e+00 & opt = true  
+The optimal solution objective is -7.711823e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 19  & SSN iters = 30 & Krylov iters = 734  & Time = 4.88e+00 & opt = true  
+The optimal solution objective is -2.547697e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 33 & Krylov iters = 363  & Time = 1.34e+01 & opt = true  
+The optimal solution objective is -4.233498e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 60 & Krylov iters = 1262  & Time = 9.86e+00 & opt = true  
+The optimal solution objective is -3.976728e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 12  & SSN iters = 114 & Krylov iters = 2047  & Time = 1.43e+01 & opt = true  
+The optimal solution objective is -4.232745e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 90 & Krylov iters = 1897  & Time = 1.47e+01 & opt = true  
+The optimal solution objective is -4.234129e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 48 & Krylov iters = 1009  & Time = 7.88e+00 & opt = true  
+The optimal solution objective is -1.268267e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 10  & SSN iters = 27 & Krylov iters = 271  & Time = 2.76e+00 & opt = true  
+The optimal solution objective is -4.900087e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 6 & Krylov iters = 114  & Time = 1.94e+00 & opt = true  
+The optimal solution objective is -4.905031e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 6 & Krylov iters = 110  & Time = 1.96e+00 & opt = true  
+The optimal solution objective is -1.471254e-05.
+Name = Conv_Diff_L1_Control & PMM iters = 7  & SSN iters = 7 & Krylov iters = 73  & Time = 1.79e+00 & opt = true  
+The optimal solution objective is -4.358588e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 19  & SSN iters = 190 & Krylov iters = 5484  & Time = 2.54e+01 & opt = true  
+The optimal solution objective is -4.233498e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 60 & Krylov iters = 1262  & Time = 1.06e+01 & opt = true  
+The optimal solution objective is -7.856914e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 15  & SSN iters = 94 & Krylov iters = 3807  & Time = 1.79e+01 & opt = true  
+The optimal solution objective is -7.857514e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 15  & SSN iters = 43 & Krylov iters = 1186  & Time = 6.04e+00 & opt = true  
+The optimal solution objective is -4.233498e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 60 & Krylov iters = 1262  & Time = 1.05e+01 & opt = true  
+The optimal solution objective is -4.907160e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 7  & SSN iters = 70 & Krylov iters = 1565  & Time = 8.43e+00 & opt = true  
+The optimal solution objective is -4.915172e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 7  & SSN iters = 70 & Krylov iters = 1570  & Time = 8.65e+00 & opt = true  
+The optimal solution objective is -4.233382e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 60 & Krylov iters = 1265  & Time = 9.42e+00 & opt = true  
+The optimal solution objective is -4.235079e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 60 & Krylov iters = 1260  & Time = 9.41e+00 & opt = true  
+The optimal solution objective is -7.457318e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 15  & SSN iters = 705 & Krylov iters = 23439  & Time = 1.53e+02 & opt = true  
+The optimal solution objective is -4.233382e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 60 & Krylov iters = 1265  & Time = 9.13e+00 & opt = true  
+The optimal solution objective is -2.079701e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 17 & Krylov iters = 273  & Time = 1.10e+01 & opt = true  
+The optimal solution objective is -1.049691e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 7  & SSN iters = 7 & Krylov iters = 121  & Time = 5.63e+01 & opt = true  
+The optimal solution objective is -7.017870e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 19  & SSN iters = 45 & Krylov iters = 1269  & Time = 1.33e+02 & opt = true  
+The optimal solution objective is -1.134718e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 1  & SSN iters = 10 & Krylov iters = 142  & Time = 2.61e+00 & opt = true  
+The optimal solution objective is -6.953511e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 110 & Krylov iters = 3283  & Time = 1.88e+01 & opt = true  
+The optimal solution objective is -4.380560e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 10  & SSN iters = 85 & Krylov iters = 1945  & Time = 5.13e+01 & opt = true  
+The optimal solution objective is -3.474319e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 3  & SSN iters = 4 & Krylov iters = 72  & Time = 5.49e+01 & opt = true  
+The optimal solution objective is -7.017870e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 19  & SSN iters = 45 & Krylov iters = 1269  & Time = 1.38e+02 & opt = true  
+The optimal solution objective is -1.268267e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 10  & SSN iters = 27 & Krylov iters = 271  & Time = 2.85e+00 & opt = true  
+The optimal solution objective is -2.547697e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 33 & Krylov iters = 363  & Time = 1.35e+01 & opt = true  
+The optimal solution objective is -2.543456e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 10  & SSN iters = 43 & Krylov iters = 694  & Time = 2.38e+01 & opt = true  
+The optimal solution objective is -1.268267e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 10  & SSN iters = 27 & Krylov iters = 271  & Time = 3.27e+00 & opt = true  
+The optimal solution objective is -4.233382e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 60 & Krylov iters = 1265  & Time = 8.72e+00 & opt = true  
+The optimal solution objective is -2.079701e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 17 & Krylov iters = 273  & Time = 1.10e+01 & opt = true  
+The optimal solution objective is -1.049691e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 7  & SSN iters = 7 & Krylov iters = 121  & Time = 5.84e+01 & opt = true  
+The optimal solution objective is -2.509463e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 7 & Krylov iters = 99  & Time = 7.45e+00 & opt = true  
+The optimal solution objective is -7.343074e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 14  & SSN iters = 21 & Krylov iters = 378  & Time = 1.24e+01 & opt = true  
+The optimal solution objective is -6.953511e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 110 & Krylov iters = 3283  & Time = 1.69e+01 & opt = true  
+The optimal solution objective is -4.380560e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 10  & SSN iters = 85 & Krylov iters = 1945  & Time = 5.07e+01 & opt = true  
+The optimal solution objective is -6.956051e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 88 & Krylov iters = 2616  & Time = 1.52e+01 & opt = true  
+The optimal solution objective is -3.474319e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 3  & SSN iters = 4 & Krylov iters = 72  & Time = 5.43e+01 & opt = true  
+The optimal solution objective is -8.825489e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 8  & SSN iters = 88 & Krylov iters = 2308  & Time = 1.19e+01 & opt = true  
+The optimal solution objective is -8.825489e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 8  & SSN iters = 88 & Krylov iters = 2308  & Time = 1.30e+01 & opt = true  
+The optimal solution objective is -6.953440e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 165 & Krylov iters = 4986  & Time = 2.88e+01 & opt = true  
+The optimal solution objective is -7.549913e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 19 & Krylov iters = 492  & Time = 3.31e+00 & opt = true  
+The optimal solution objective is -7.552485e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 19 & Krylov iters = 418  & Time = 3.07e+00 & opt = true  
+The optimal solution objective is -7.552510e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 19 & Krylov iters = 389  & Time = 3.03e+00 & opt = true  
+The optimal solution objective is -5.051862e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 10  & SSN iters = 10 & Krylov iters = 184  & Time = 9.23e+00 & opt = true  
+The optimal solution objective is -5.047099e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 10  & SSN iters = 11 & Krylov iters = 211  & Time = 9.36e+00 & opt = true  
+The optimal solution objective is -2.548047e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 41 & Krylov iters = 526  & Time = 1.61e+01 & opt = true  
+The optimal solution objective is -2.548146e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 39 & Krylov iters = 356  & Time = 1.34e+01 & opt = true  
+The optimal solution objective is -1.268467e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 33 & Krylov iters = 370  & Time = 3.55e+00 & opt = true  
+The optimal solution objective is -1.268557e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 32 & Krylov iters = 296  & Time = 3.04e+00 & opt = true  
+The optimal solution objective is -1.268557e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 31 & Krylov iters = 288  & Time = 2.98e+00 & opt = true  
+The optimal solution objective is -1.268557e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 31 & Krylov iters = 288  & Time = 2.89e+00 & opt = true  
+The optimal solution objective is -2.548147e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 39 & Krylov iters = 359  & Time = 1.40e+01 & opt = true  
+The optimal solution objective is -2.548147e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 39 & Krylov iters = 355  & Time = 1.35e+01 & opt = true  
+The optimal solution objective is -2.548146e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 39 & Krylov iters = 356  & Time = 1.35e+01 & opt = true  
+The optimal solution objective is -2.548047e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 41 & Krylov iters = 526  & Time = 1.60e+01 & opt = true  
+The optimal solution objective is -5.107013e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 15 & Krylov iters = 186  & Time = 6.50e+01 & opt = true  
+The optimal solution objective is -5.107149e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 15 & Krylov iters = 180  & Time = 6.53e+01 & opt = true  
+The optimal solution objective is -5.107150e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 15 & Krylov iters = 180  & Time = 6.66e+01 & opt = true  
+The optimal solution objective is -5.107150e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 15 & Krylov iters = 180  & Time = 6.47e+01 & opt = true  
+The optimal solution objective is -1.023061e+03.
+Name = Bounded_Poisson_L1_Control & PMM iters = 18  & SSN iters = 18 & Krylov iters = 244  & Time = 5.25e+02 & opt = true  
+The optimal solution objective is -1.023061e+03.
+Name = Bounded_Poisson_L1_Control & PMM iters = 18  & SSN iters = 18 & Krylov iters = 244  & Time = 5.39e+02 & opt = true  
+The optimal solution objective is -1.023061e+03.
+Name = Bounded_Poisson_L1_Control & PMM iters = 18  & SSN iters = 18 & Krylov iters = 244  & Time = 5.47e+02 & opt = true  
+The optimal solution objective is -1.023057e+03.
+Name = Bounded_Poisson_L1_Control & PMM iters = 18  & SSN iters = 18 & Krylov iters = 244  & Time = 5.03e+02 & opt = true  
+The optimal solution objective is -6.956051e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 88 & Krylov iters = 2616  & Time = 1.37e+01 & opt = true  
+The optimal solution objective is -7.868311e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 23 & Krylov iters = 1174  & Time = 4.93e+00 & opt = true  
+The optimal solution objective is -7.001221e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 52 & Krylov iters = 1430  & Time = 6.33e+00 & opt = true  
+The optimal solution objective is -7.867470e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 19 & Krylov iters = 1079  & Time = 4.95e+00 & opt = true  
+The optimal solution objective is -1.268708e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 13  & SSN iters = 53 & Krylov iters = 940  & Time = 5.79e+00 & opt = true  
+The optimal solution objective is -1.268467e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 33 & Krylov iters = 370  & Time = 3.60e+00 & opt = true  
+The optimal solution objective is -1.268718e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 14  & SSN iters = 65 & Krylov iters = 1366  & Time = 8.13e+00 & opt = true  
+The optimal solution objective is -7.868311e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 6  & SSN iters = 23 & Krylov iters = 1174  & Time = 5.16e+00 & opt = true  
+The optimal solution objective is -7.866347e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 8  & SSN iters = 28 & Krylov iters = 1634  & Time = 6.34e+00 & opt = true  
+The optimal solution objective is -1.268717e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 68 & Krylov iters = 1563  & Time = 8.98e+00 & opt = true  
+The optimal solution objective is -7.866347e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 8  & SSN iters = 28 & Krylov iters = 1634  & Time = 6.80e+00 & opt = true  
+The optimal solution objective is -7.942753e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 14  & SSN iters = 52 & Krylov iters = 2978  & Time = 4.45e+01 & opt = true  
+The optimal solution objective is -2.548511e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 22  & SSN iters = 94 & Krylov iters = 2322  & Time = 4.72e+01 & opt = true  
+The optimal solution objective is -2.548458e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 19  & SSN iters = 73 & Krylov iters = 1361  & Time = 2.88e+01 & opt = true  
+The optimal solution objective is -1.268717e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 16  & SSN iters = 60 & Krylov iters = 1178  & Time = 6.69e+00 & opt = true  
+The optimal solution objective is -7.866278e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 8  & SSN iters = 25 & Krylov iters = 1657  & Time = 6.28e+00 & opt = true  
+The optimal solution objective is -1.268717e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 16  & SSN iters = 60 & Krylov iters = 1178  & Time = 6.43e+00 & opt = true  
+The optimal solution objective is -1.268717e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 68 & Krylov iters = 1563  & Time = 8.26e+00 & opt = true  
+The optimal solution objective is -2.548512e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 20  & SSN iters = 103 & Krylov iters = 2785  & Time = 5.52e+01 & opt = true  
+The optimal solution objective is -2.548458e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 19  & SSN iters = 73 & Krylov iters = 1361  & Time = 2.95e+01 & opt = true  
+The optimal solution objective is -5.108201e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 21  & SSN iters = 77 & Krylov iters = 1115  & Time = 1.54e+02 & opt = true  
+The optimal solution objective is -7.962777e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 20  & SSN iters = 76 & Krylov iters = 4483  & Time = 3.04e+02 & opt = true  
+The optimal solution objective is -7.942753e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 14  & SSN iters = 52 & Krylov iters = 2978  & Time = 5.09e+01 & opt = true  
+The optimal solution objective is -7.942753e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 14  & SSN iters = 38 & Krylov iters = 2053  & Time = 3.77e+01 & opt = true  
+The optimal solution objective is -7.942753e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 14  & SSN iters = 38 & Krylov iters = 2003  & Time = 3.67e+01 & opt = true  
+The optimal solution objective is -2.548437e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 66 & Krylov iters = 1238  & Time = 2.96e+01 & opt = true  
+The optimal solution objective is -1.268717e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 68 & Krylov iters = 1563  & Time = 1.01e+01 & opt = true  
+The optimal solution objective is -1.268717e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 16  & SSN iters = 60 & Krylov iters = 1178  & Time = 8.32e+00 & opt = true  
+The optimal solution objective is -1.268717e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 68 & Krylov iters = 1563  & Time = 8.73e+00 & opt = true  
+The optimal solution objective is -2.548512e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 20  & SSN iters = 103 & Krylov iters = 2785  & Time = 5.30e+01 & opt = true  
+The optimal solution objective is -5.108201e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 21  & SSN iters = 77 & Krylov iters = 1115  & Time = 1.44e+02 & opt = true  
+The optimal solution objective is -1.268467e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 33 & Krylov iters = 370  & Time = 3.06e+00 & opt = true  
+The optimal solution objective is -1.268686e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 170 & Krylov iters = 6054  & Time = 3.50e+01 & opt = true  
+The optimal solution objective is -1.268686e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 17  & SSN iters = 145 & Krylov iters = 4864  & Time = 2.84e+01 & opt = true  
+The optimal solution objective is -7.474021e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 26  & SSN iters = 256 & Krylov iters = 13388  & Time = 3.89e+01 & opt = true  
+The optimal solution objective is -1.268467e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 33 & Krylov iters = 370  & Time = 3.08e+00 & opt = true  
+The optimal solution objective is -6.956051e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 88 & Krylov iters = 2616  & Time = 1.28e+01 & opt = true  
+The optimal solution objective is -1.268467e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 33 & Krylov iters = 370  & Time = 2.96e+00 & opt = true  
+The optimal solution objective is -2.548047e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 41 & Krylov iters = 526  & Time = 1.50e+01 & opt = true  
+The optimal solution objective is -5.107013e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 15 & Krylov iters = 186  & Time = 4.44e+01 & opt = true  
+The optimal solution objective is -1.023057e+03.
+Name = Bounded_Poisson_L1_Control & PMM iters = 18  & SSN iters = 18 & Krylov iters = 244  & Time = 2.33e+02 & opt = true  
+The optimal solution objective is -1.023061e+03.
+Name = Bounded_Poisson_L1_Control & PMM iters = 18  & SSN iters = 18 & Krylov iters = 244  & Time = 2.35e+02 & opt = true  
+The optimal solution objective is -5.107149e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 15 & Krylov iters = 180  & Time = 4.38e+01 & opt = true  
+The optimal solution objective is -2.548146e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 39 & Krylov iters = 356  & Time = 1.24e+01 & opt = true  
+The optimal solution objective is -1.268557e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 32 & Krylov iters = 296  & Time = 2.88e+00 & opt = true  
+The optimal solution objective is -1.268557e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 31 & Krylov iters = 288  & Time = 2.82e+00 & opt = true  
+The optimal solution objective is -1.268557e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 31 & Krylov iters = 288  & Time = 2.85e+00 & opt = true  
+The optimal solution objective is -2.548147e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 39 & Krylov iters = 359  & Time = 1.28e+01 & opt = true  
+The optimal solution objective is -2.548147e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 39 & Krylov iters = 355  & Time = 1.27e+01 & opt = true  
+The optimal solution objective is -5.107504e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 20 & Krylov iters = 208  & Time = 4.80e+01 & opt = true  
+The optimal solution objective is -5.107508e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 22 & Krylov iters = 222  & Time = 5.06e+01 & opt = true  
+The optimal solution objective is -5.107508e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 15  & SSN iters = 22 & Krylov iters = 222  & Time = 4.94e+01 & opt = true  
+The optimal solution objective is -5.109161e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 25  & SSN iters = 97 & Krylov iters = 1301  & Time = 1.25e+02 & opt = true  
+The optimal solution objective is -5.109161e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 25  & SSN iters = 98 & Krylov iters = 1471  & Time = 1.33e+02 & opt = true  
+The optimal solution objective is -5.109156e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 25  & SSN iters = 104 & Krylov iters = 1564  & Time = 1.40e+02 & opt = true  
+The optimal solution objective is -5.108404e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 26  & SSN iters = 103 & Krylov iters = 1439  & Time = 1.42e+02 & opt = true  
+The optimal solution objective is -5.117471e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 2  & SSN iters = 2 & Krylov iters = 24  & Time = 3.25e+01 & opt = true  
+The optimal solution objective is -5.117471e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 2  & SSN iters = 2 & Krylov iters = 24  & Time = 3.31e+01 & opt = true  
+The optimal solution objective is -5.117471e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 2  & SSN iters = 2 & Krylov iters = 24  & Time = 3.12e+01 & opt = true  
+The optimal solution objective is -5.117471e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 2  & SSN iters = 2 & Krylov iters = 24  & Time = 3.04e+01 & opt = true  
+The optimal solution objective is -5.646812e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 1.39e+00 & opt = true  
+The optimal solution objective is -6.956051e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 88 & Krylov iters = 2616  & Time = 1.35e+01 & opt = true  
+The optimal solution objective is -7.549913e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 19 & Krylov iters = 492  & Time = 3.31e+00 & opt = true  
+The optimal solution objective is -7.552485e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 19 & Krylov iters = 418  & Time = 2.99e+00 & opt = true  
+The optimal solution objective is -7.552510e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 11  & SSN iters = 19 & Krylov iters = 389  & Time = 2.89e+00 & opt = true  
+The optimal solution objective is -4.380611e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 10  & SSN iters = 69 & Krylov iters = 1568  & Time = 3.96e+01 & opt = true  
+The optimal solution objective is -5.047099e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 10  & SSN iters = 11 & Krylov iters = 211  & Time = 8.93e+00 & opt = true  
+The optimal solution objective is -5.052176e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 10  & SSN iters = 10 & Krylov iters = 185  & Time = 8.47e+00 & opt = true  
+The optimal solution objective is -5.051862e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 10  & SSN iters = 10 & Krylov iters = 184  & Time = 8.92e+00 & opt = true  
+The optimal solution objective is -3.835367e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 3  & SSN iters = 3 & Krylov iters = 54  & Time = 3.57e+01 & opt = true  
+The optimal solution objective is -3.801674e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 3  & SSN iters = 3 & Krylov iters = 54  & Time = 3.27e+01 & opt = true  
+The optimal solution objective is -3.778326e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 3  & SSN iters = 3 & Krylov iters = 54  & Time = 3.25e+01 & opt = true  
+The optimal solution objective is -3.474319e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 3  & SSN iters = 4 & Krylov iters = 72  & Time = 3.34e+01 & opt = true  
+The optimal solution objective is -3.962193e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 4  & SSN iters = 4 & Krylov iters = 74  & Time = 5.23e+01 & opt = true  
+The optimal solution objective is -4.006687e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 4  & SSN iters = 5 & Krylov iters = 90  & Time = 5.76e+01 & opt = true  
+The optimal solution objective is -4.007312e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 4  & SSN iters = 5 & Krylov iters = 89  & Time = 5.84e+01 & opt = true  
+The optimal solution objective is -4.007328e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 4  & SSN iters = 4 & Krylov iters = 72  & Time = 5.61e+01 & opt = true  
+The optimal solution objective is -7.953223e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 23  & SSN iters = 67 & Krylov iters = 4720  & Time = 1.93e+02 & opt = true  
+The optimal solution objective is -9.927437e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 26  & SSN iters = 89 & Krylov iters = 7073  & Time = 2.48e+02 & opt = true  
+The optimal solution objective is -9.955405e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 26  & SSN iters = 89 & Krylov iters = 7084  & Time = 2.58e+02 & opt = true  
+The optimal solution objective is -9.955688e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 26  & SSN iters = 89 & Krylov iters = 7089  & Time = 2.36e+02 & opt = true  
+The optimal solution objective is -3.780237e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 3  & SSN iters = 3 & Krylov iters = 54  & Time = 3.27e+01 & opt = true  
+The optimal solution objective is -3.780257e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 3  & SSN iters = 3 & Krylov iters = 54  & Time = 3.22e+01 & opt = true  
+The optimal solution objective is -3.780257e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 3  & SSN iters = 3 & Krylov iters = 54  & Time = 3.21e+01 & opt = true  
+The optimal solution objective is -3.685758e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 2.83e+01 & opt = true  
+The optimal solution objective is -3.685758e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 2.85e+01 & opt = true  
+The optimal solution objective is -3.685758e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 2.85e+01 & opt = true  
+The optimal solution objective is -3.685757e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 0  & SSN iters = 0 & Krylov iters = 0  & Time = 2.90e+01 & opt = true  
+The optimal solution objective is -3.478314e-04.
+Name = Conv_Diff_L1_Control & PMM iters = 2  & SSN iters = 2 & Krylov iters = 29  & Time = 3.09e+01 & opt = true  
+The optimal solution objective is -1.267200e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 7  & SSN iters = 7 & Krylov iters = 113  & Time = 3.90e+01 & opt = true  
+The optimal solution objective is -6.863734e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 17  & SSN iters = 17 & Krylov iters = 381  & Time = 5.58e+01 & opt = true  
+The optimal solution objective is -7.934763e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 22  & SSN iters = 58 & Krylov iters = 2166  & Time = 1.47e+02 & opt = true  
+The optimal solution objective is -7.457245e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 1479 & Krylov iters = 60569  & Time = 3.47e+02 & opt = true  
+The optimal solution objective is -7.857514e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 15  & SSN iters = 43 & Krylov iters = 1186  & Time = 5.88e+00 & opt = true  
+The optimal solution objective is -7.856914e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 15  & SSN iters = 78 & Krylov iters = 3018  & Time = 1.38e+01 & opt = true  
+The optimal solution objective is -7.858078e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 29  & SSN iters = 219 & Krylov iters = 13751  & Time = 5.02e+01 & opt = true  
+The optimal solution objective is -6.717007e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 113 & Krylov iters = 3316  & Time = 2.75e+02 & opt = true  
+The optimal solution objective is -7.853347e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 115 & Krylov iters = 4378  & Time = 1.66e+01 & opt = true  
+The optimal solution objective is -7.863339e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 88 & Krylov iters = 3462  & Time = 1.23e+01 & opt = true  
+The optimal solution objective is -7.863745e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 48 & Krylov iters = 1487  & Time = 6.09e+00 & opt = true  
+The optimal solution objective is -7.863775e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 48 & Krylov iters = 1128  & Time = 5.40e+00 & opt = true  
+The optimal solution objective is -7.853347e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 115 & Krylov iters = 4378  & Time = 1.68e+01 & opt = true  
+The optimal solution objective is -7.863775e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 48 & Krylov iters = 1128  & Time = 5.38e+00 & opt = true  
+The optimal solution objective is -7.857797e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 17  & SSN iters = 109 & Krylov iters = 3655  & Time = 6.57e+01 & opt = true  
+The optimal solution objective is -7.875865e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 17  & SSN iters = 57 & Krylov iters = 2019  & Time = 3.47e+01 & opt = true  
+The optimal solution objective is -7.876909e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 17  & SSN iters = 36 & Krylov iters = 959  & Time = 2.03e+01 & opt = true  
+The optimal solution objective is -7.877028e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 17  & SSN iters = 36 & Krylov iters = 746  & Time = 1.71e+01 & opt = true  
+The optimal solution objective is -7.858247e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 30  & SSN iters = 227 & Krylov iters = 15002  & Time = 4.54e+01 & opt = true  
+The optimal solution objective is -7.853347e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 115 & Krylov iters = 4378  & Time = 1.88e+01 & opt = true  
+The optimal solution objective is -7.845382e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 116 & Krylov iters = 4397  & Time = 1.86e+01 & opt = true  
+The optimal solution objective is -7.298357e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 84 & Krylov iters = 2720  & Time = 2.30e+02 & opt = true  
+The optimal solution objective is -7.331723e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 28 & Krylov iters = 793  & Time = 8.11e+01 & opt = true  
+The optimal solution objective is -7.332632e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 23 & Krylov iters = 516  & Time = 6.73e+01 & opt = true  
+The optimal solution objective is -7.332857e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 23 & Krylov iters = 477  & Time = 6.61e+01 & opt = true  
+The optimal solution objective is -3.626240e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 27 & Krylov iters = 613  & Time = 2.35e+02 & opt = true  
+The optimal solution objective is -3.668864e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 17 & Krylov iters = 323  & Time = 1.37e+02 & opt = true  
+The optimal solution objective is -3.673425e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 17 & Krylov iters = 322  & Time = 1.36e+02 & opt = true  
+The optimal solution objective is -3.673931e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 16  & SSN iters = 17 & Krylov iters = 324  & Time = 1.40e+02 & opt = true  
+The optimal solution objective is -7.612621e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 105 & Krylov iters = 3250  & Time = 2.66e+02 & opt = true  
+The optimal solution objective is -8.657419e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 105 & Krylov iters = 3181  & Time = 2.60e+02 & opt = true  
+The optimal solution objective is -8.669273e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 105 & Krylov iters = 3177  & Time = 2.57e+02 & opt = true  
+The optimal solution objective is -8.669394e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 105 & Krylov iters = 3177  & Time = 2.44e+02 & opt = true  
+The optimal solution objective is -8.346607e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 84 & Krylov iters = 2678  & Time = 2.15e+02 & opt = true  
+The optimal solution objective is -8.358465e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 84 & Krylov iters = 2680  & Time = 2.21e+02 & opt = true  
+The optimal solution objective is -8.358585e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 84 & Krylov iters = 2676  & Time = 2.06e+02 & opt = true  
+The optimal solution objective is -6.203994e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 58 & Krylov iters = 1994  & Time = 1.64e+02 & opt = true  
+The optimal solution objective is -7.238695e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 57 & Krylov iters = 1829  & Time = 1.55e+02 & opt = true  
+The optimal solution objective is -7.250638e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 57 & Krylov iters = 1847  & Time = 1.54e+02 & opt = true  
+The optimal solution objective is -7.250757e-03.
+Name = Conv_Diff_L1_Control & PMM iters = 18  & SSN iters = 57 & Krylov iters = 1847  & Time = 1.45e+02 & opt = true  

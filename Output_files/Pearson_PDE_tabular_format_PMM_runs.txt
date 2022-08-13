@@ -1,0 +1,4 @@
+The optimal solution objective is -1.269263e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 31 & Krylov iters = 271  & Time = 3.12e+00 & opt = true  
+The optimal solution objective is -1.269302e+02.
+Name = Bounded_Poisson_L1_Control & PMM iters = 11  & SSN iters = 36 & Krylov iters = 307  & Time = 2.98e+00 & opt = true  
