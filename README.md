@@ -1,4 +1,4 @@
-This file contains the implementation of the active-set method proposed in the following article
+This file contains the MATLAB implementation of the active-set method proposed in the following article
 
 
 for the solution of convex quadratic programming problems with piecewise-linear terms in the objective.
