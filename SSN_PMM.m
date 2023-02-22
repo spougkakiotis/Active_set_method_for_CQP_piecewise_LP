@@ -113,7 +113,7 @@ function [solution_struct] = SSN_PMM(Q, D, A, C, b, d, c_1, c_2, lb, ub, tol, ma
     % Choose an initial starting point (x,v,z) such that any positive variable is set to a positive constant and 
     % free variables are set to zero.
     % -------------------------------------------------------------------------------------------------------------------- %
-    beta = 1e2;   rho = 5e2;   zeta = 1;                                % Initial primal and dual regularization values.
+    beta = 1e1;   rho = 5e1;   zeta = 10;                                % Initial primal and dual regularization values.
     warm_start_tol = 1e-3;
     if (warm_start == "matrix-free")
         warm_start_maxit = 100;
